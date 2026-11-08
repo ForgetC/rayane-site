@@ -1,6 +1,6 @@
-# rayane.silush.com
+# rayane.yayaoui.com
 
-🌐 https://rayane.silush.com
+🌐 https://rayane.yayaoui.com
 
 Mon portfolio et mon CV. Tout ce qui est poussé sur `main` est en ligne environ 1 minute
 plus tard (Cloudflare Workers Builds).
@@ -51,7 +51,7 @@ Règles pour que le CV reste lisible par les logiciels de recrutement (ATS) :
 une seule colonne, pas de tableau, pas de photo, pas d'icône, titres standards
 (Professional Summary, Skills, Professional Experience, Education), une page.
 **Pas de téléphone ni d'e-mail personnel sur la version publique** : utiliser
-`rayane@silush.com` (transféré vers ma boîte). La version avec mon téléphone, je l'envoie
+`rayane@yayaoui.com` (transféré vers ma boîte). La version avec mon téléphone, je l'envoie
 seulement directement aux recruteurs.
 
 ## En cas d'erreur
